@@ -6,7 +6,21 @@
       "platforms": [
         {
           "name": "ios",
-          "versions": []
+          "versions": [
+            {
+              "name": "0.0.1",
+              "binary": null,
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
         }
       ]
     }
